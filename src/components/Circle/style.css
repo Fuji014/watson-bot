@@ -1,0 +1,21 @@
+.info-image img {
+    width: 100px;
+    border-radius: 5px;
+}
+
+.info-image {
+    height: 80px;
+    width: 100%;
+    background-size: cover;
+    border-radius: 8px;
+
+}
+
+.info-street, .info-area, .info-description {
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.info-container {
+    width: 150px;
+}
